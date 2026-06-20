@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/YQ-code001/DesktopFileSorter/releases/download/v1.2.0/DesktopFileSorter-Setup-v1.2.0.exe",
-  "notes": "v1.2.0 auto update"
+  "version": "1.3.0",
+  "url": "https://github.com/YQX-code001/DesktopFileSorter/releases/download/v1.3.0/DesktopFileSorter-Setup-v1.3.0.exe",
+  "notes": "Enhanced classification with Project Scheme system: keyword matching with auto variant expansion (数字/汉字), current project priority mode, D2 folder strategy (deepest match), and unified preview-before-action flow."
 }
